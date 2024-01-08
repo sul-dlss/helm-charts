@@ -1,0 +1,16 @@
+apiVersion: v1
+entries:
+  puppetboard:
+  - apiVersion: v1
+    appVersion: 4.3.0
+    created: "2024-01-08T21:46:25.024617089Z"
+    description: Puppetboard is a web dashboard for puppet
+    digest: 18151bde55c2b02348762a9272c72b881a6021152c4e5896550d91489162d637
+    maintainers:
+    - email: jonrober@stanford.edu
+      name: jonrober
+    name: puppetboard
+    urls:
+    - https://github.com/sul-dlss/helm-charts/releases/download/puppetboard-1.0.1/puppetboard-1.0.1.tgz
+    version: 1.0.1
+generated: "2024-01-08T21:46:25.024630089Z"
